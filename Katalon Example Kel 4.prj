@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>Test Component UI</description>
+   <name>Katalon Example Kel 4</name>
+   <tag></tag>
+   <UUID>b1258cd2-6cba-483b-a23f-213ec43081bf</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>
